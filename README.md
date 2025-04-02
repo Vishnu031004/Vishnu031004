@@ -2,9 +2,8 @@
 - 👀 I’m interested in Communication Systems, IoT and Web Development
 - 🌱 I’m currently learning HTML, CSS, and JavaScript while building my Blood Bank Locator project
 - 💞️ I’m working on a web-based Blood Bank Locator that helps users find nearby blood banks and check blood availability
-- 📫 How to reach me vishnubharathiarunachalam@gmail.com 
+- 📫 How to reach me vishnubharathiarunachalam@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡I come from an agricultural family and enjoy solving real-world problems with technology! 
 
 <!---
 Vishnu031004/Vishnu031004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
